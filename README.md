@@ -1,0 +1,2 @@
+# -Advanced-CLI-Contact-Management-System-with-Search-Filters
+Advanced CLI Contact Management System is a Python-based mini CRM that allows users to add, view, search, filter, update, and delete contacts efficiently. It supports data validation, unique IDs, and file-based persistence using JSON/CSV. The system features a menu-driven interface, modular functions, and error handling for smooth user experience.
